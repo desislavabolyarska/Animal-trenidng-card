@@ -1,0 +1,51 @@
+body {
+    font-family: Verdana, sans serif;
+}
+
+img {
+    width:300px;
+    margin:0 auto;
+    border:1px solid ;
+}
+ul {
+    padding-left: 0;
+}
+li {
+    font-size: 12px;
+    list-style: none;
+}
+li span {
+    font-weight: bold;
+
+}
+h3{
+    margin: 0 0 15px;
+    font-size: 16px;
+}
+p{
+    margin:0;
+    font-size: 12px;
+}
+
+#fav-animal{
+    width:300px;
+    padding:20px;
+    color:#ffffff;
+    /*text-shadow: 1px 1px 2px black; */
+    background-image: url("http://i0.kym-cdn.com/photos/images/original/000/995/568/97c.jpg");
+  background-size: cover;
+    border:1px solid #9f9f9f;
+    border-radius: 2em;
+
+}
+#info{
+    border:1px solid #9f9f9f;
+    padding:15px;
+    margin-top: 15px;
+    vertical-align: top;
+  border-radius:0 0 1em 1em;
+}
+#description {
+    font-style: italic;
+    margin-top: 0;
+}
